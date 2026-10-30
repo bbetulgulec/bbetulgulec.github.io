@@ -3,6 +3,13 @@ import {notFound} from "next/navigation";
 import {projects} from "../../../data/projects";
 import {projectDetails} from "../../../data/projectDetails";
 
+export function generateStaticParams() {
+    return projects
+        .filter((project) => projectDetails[project.id])
+        .map((project) => ({
+            id: project.id,
+        }));
+}
 const columnsClass = {
     1: "grid-cols-1",
     2: "grid-cols-1 sm:grid-cols-2",
