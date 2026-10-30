@@ -14,7 +14,7 @@ export function Hero() {
                 </div>
 
                 <h1 className="text-5xl md:text-7xl font-bold text-gray-800 mb-4">
-                    Hi, I'm <span
+                    Merhaba, Ben <span
                     className="text-transparent bg-clip-text bg-gradient-to-r from-flower-pink to-flower-purple">Betül Güleç</span>
                 </h1>
                 <p className="text-xl md:text-2xl text-gray-600 mb-8">Mobile Developer || .Net Developer</p>
