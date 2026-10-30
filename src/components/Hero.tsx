@@ -22,7 +22,7 @@ export function Hero() {
                     Mobil uygulamalar ve .NET web projeleri geliştiriyorum. Her projede yeni şeyler
                     öğreniyor, fikirleri insanların severek kullanacağı uygulamalara dönüştürmeye çalışıyorum. 🌸
                 </p>
-                <div className="flex flex-col sm:flex-row items-center gap-4">
+                <div className="flex flex-col sm:flex-row sm:justify-center gap-4">
                     <a
                         href="#projects"
                         className="inline-block w-full sm:w-auto text-center border-2 border-leaf-green text-leaf-green px-8 py-3 rounded-full hover:bg-leaf-green hover:text-white transition transform hover:scale-105"
