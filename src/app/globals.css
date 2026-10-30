@@ -1,0 +1,96 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.petal {
+    background: linear-gradient(135deg, #FFB6C1 0%, #FFC0CB 100%);
+    border-radius: 0 100% 0 100%;
+    position: absolute;
+}
+
+.flower-container {
+    position: relative;
+    width: 100px;
+    height: 100px;
+}
+
+.petal:nth-child(1) {
+    transform: rotate(0deg);
+}
+
+.petal:nth-child(2) {
+    transform: rotate(72deg);
+}
+
+.petal:nth-child(3) {
+    transform: rotate(144deg);
+}
+
+.petal:nth-child(4) {
+    transform: rotate(216deg);
+}
+
+.petal:nth-child(5) {
+    transform: rotate(288deg);
+}
+
+/* Smooth scrolling */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Background pattern */
+.garden-pattern {
+    background-image: radial-gradient(circle at 20% 50%, rgba(255, 182, 193, 0.1) 0%, transparent 50%),
+    radial-gradient(circle at 80% 80%, rgba(144, 238, 144, 0.1) 0%, transparent 50%),
+    radial-gradient(circle at 40% 20%, rgba(221, 160, 221, 0.1) 0%, transparent 50%);
+}
+
+.reveal-pending {
+    opacity: 0;
+    transform: translateY(24px);
+}
+
+.reveal-visible {
+    animation: section-reveal 0.9s ease-out forwards;
+}
+
+@keyframes section-reveal {
+    from {
+        opacity: 0;
+        transform: translateY(24px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .reveal-pending {
+        opacity: 1;
+        transform: none;
+    }
+
+    .reveal-visible {
+        animation: none;
+    }
+}
+
+.line-clamp-3 {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    overflow: hidden;
+}
+
+.project-type-mobile {
+    border: 1px solid rgba(139, 94, 69, 0.4);
+    background-color: rgba(184, 121, 91, 0.1);
+    color: #8b5e45;
+}
+
+section[id] {
+    scroll-margin-top: 6rem;
+}
