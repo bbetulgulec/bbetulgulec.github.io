@@ -75,22 +75,46 @@ export function Contact() {
                             </div>
                         </div>
 
-                        <div className="flex flex-wrap gap-3">
-                            <a
-                                href="/cv/betul-gulec-cv-tr.pdf"
-                                download
-                                className="inline-flex items-center rounded-lg bg-leaf-green px-5 py-3 font-semibold text-white shadow-sm transition hover:bg-green-700"
-                            >
-                                CV Türkçe
-                            </a>
+                        <div className="border-t border-gray-100 pt-6">
+                            <h3 className="mb-3 text-sm font-semibold uppercase tracking-wider text-gray-500">
+                                CV’lerim
+                            </h3>
 
-                            <a
-                                href="/cv/betul-gulec-cv-en.pdf"
-                                download
-                                className="inline-flex items-center rounded-lg border-2 border-leaf-green px-5 py-3 font-semibold text-leaf-green transition hover:bg-leaf-green hover:text-white"
-                            >
-                                CV English
-                            </a>
+                            <div className="space-y-2">
+                                <a
+                                    href="/cv/mobil_cv/tr/betul_gulec_tr_mobil.pdf"
+                                    download
+                                    className="group flex items-center justify-between rounded-lg border border-gray-200 px-4 py-3 transition hover:border-leaf-green hover:bg-green-50"
+                                >
+                            <span className="font-medium text-gray-700 group-hover:text-leaf-green">Mobil Developer</span>
+                                    <span className="text-sm text-gray-400 group-hover:text-leaf-green">Türkçe ↓</span></a>
+                                <a
+                                    href="/cv/mobil_cv/eng/betul_gulec_eng_mobil.pdf"
+                                    download
+                                    className="group flex items-center justify-between rounded-lg border border-gray-200 px-4 py-3 transition hover:border-leaf-green hover:bg-green-50"
+                                >
+                                    <span className="font-medium text-gray-700 group-hover:text-leaf-green">Mobile Developer</span>
+                                    <span className="text-sm text-gray-400 group-hover:text-leaf-green">English ↓</span>
+                                </a>
+
+                                <a
+                                    href="/cv/net_cv/eng/betul_gulec_eng_net.pdf"
+                                    download
+                                    className="group flex items-center justify-between rounded-lg border border-gray-200 px-4 py-3 transition hover:border-leaf-green hover:bg-green-50"
+                                >
+                                    <span className="font-medium text-gray-700 group-hover:text-leaf-green">.NET Developer</span>
+                                    <span className="text-sm text-gray-400 group-hover:text-leaf-green">English ↓</span>
+                                </a>
+
+                                <a
+                                    href="/cv/net_cv/tr/betul_gulec_tr_net.pdf"
+                                    download
+                                    className="group flex items-center justify-between rounded-lg border border-gray-200 px-4 py-3 transition hover:border-leaf-green hover:bg-green-50"
+                                >
+                                    <span className="font-medium text-gray-700 group-hover:text-leaf-green">.NET Developer</span>
+                                    <span className="text-sm text-gray-400 group-hover:text-leaf-green">Türkçe ↓</span>
+                                </a>
+                            </div>
                         </div>
                     </div>
 

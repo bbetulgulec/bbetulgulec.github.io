@@ -764,26 +764,131 @@ function Contact() {
                                     columnNumber: 25
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                    className: "flex flex-wrap gap-3",
+                                    className: "border-t border-gray-100 pt-6",
                                     children: [
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                            href: "/cv/betul-gulec-cv-tr.pdf",
-                                            download: true,
-                                            className: "inline-flex items-center rounded-lg bg-leaf-green px-5 py-3 font-semibold text-white shadow-sm transition hover:bg-green-700",
-                                            children: "CV Türkçe"
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                            className: "mb-3 text-sm font-semibold uppercase tracking-wider text-gray-500",
+                                            children: "CV’lerim"
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/Contact.tsx",
                                             lineNumber: 79,
                                             columnNumber: 29
                                         }, this),
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                            href: "/cv/betul-gulec-cv-en.pdf",
-                                            download: true,
-                                            className: "inline-flex items-center rounded-lg border-2 border-leaf-green px-5 py-3 font-semibold text-leaf-green transition hover:bg-leaf-green hover:text-white",
-                                            children: "CV English"
-                                        }, void 0, false, {
+                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                            className: "space-y-2",
+                                            children: [
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                                    href: "/cv/mobil_cv/tr/betul_gulec_tr_mobil.pdf",
+                                                    download: true,
+                                                    className: "group flex items-center justify-between rounded-lg border border-gray-200 px-4 py-3 transition hover:border-leaf-green hover:bg-green-50",
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "font-medium text-gray-700 group-hover:text-leaf-green",
+                                                            children: "Mobil Developer"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/src/components/Contact.tsx",
+                                                            lineNumber: 89,
+                                                            columnNumber: 29
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "text-sm text-gray-400 group-hover:text-leaf-green",
+                                                            children: "Türkçe ↓"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/src/components/Contact.tsx",
+                                                            lineNumber: 90,
+                                                            columnNumber: 37
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/src/components/Contact.tsx",
+                                                    lineNumber: 84,
+                                                    columnNumber: 33
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                                    href: "/cv/mobil_cv/eng/betul_gulec_eng_mobil.pdf",
+                                                    download: true,
+                                                    className: "group flex items-center justify-between rounded-lg border border-gray-200 px-4 py-3 transition hover:border-leaf-green hover:bg-green-50",
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "font-medium text-gray-700 group-hover:text-leaf-green",
+                                                            children: "Mobile Developer"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/src/components/Contact.tsx",
+                                                            lineNumber: 96,
+                                                            columnNumber: 37
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "text-sm text-gray-400 group-hover:text-leaf-green",
+                                                            children: "English ↓"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/src/components/Contact.tsx",
+                                                            lineNumber: 97,
+                                                            columnNumber: 37
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/src/components/Contact.tsx",
+                                                    lineNumber: 91,
+                                                    columnNumber: 33
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                                    href: "/cv/net_cv/eng/betul_gulec_eng_net.pdf",
+                                                    download: true,
+                                                    className: "group flex items-center justify-between rounded-lg border border-gray-200 px-4 py-3 transition hover:border-leaf-green hover:bg-green-50",
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "font-medium text-gray-700 group-hover:text-leaf-green",
+                                                            children: ".NET Developer"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/src/components/Contact.tsx",
+                                                            lineNumber: 105,
+                                                            columnNumber: 37
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "text-sm text-gray-400 group-hover:text-leaf-green",
+                                                            children: "English ↓"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/src/components/Contact.tsx",
+                                                            lineNumber: 106,
+                                                            columnNumber: 37
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/src/components/Contact.tsx",
+                                                    lineNumber: 100,
+                                                    columnNumber: 33
+                                                }, this),
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                                    href: "/cv/net_cv/tr/betul_gulec_tr_net.pdf",
+                                                    download: true,
+                                                    className: "group flex items-center justify-between rounded-lg border border-gray-200 px-4 py-3 transition hover:border-leaf-green hover:bg-green-50",
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "font-medium text-gray-700 group-hover:text-leaf-green",
+                                                            children: ".NET Developer"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/src/components/Contact.tsx",
+                                                            lineNumber: 114,
+                                                            columnNumber: 37
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                            className: "text-sm text-gray-400 group-hover:text-leaf-green",
+                                                            children: "Türkçe ↓"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/src/components/Contact.tsx",
+                                                            lineNumber: 115,
+                                                            columnNumber: 37
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/src/components/Contact.tsx",
+                                                    lineNumber: 109,
+                                                    columnNumber: 33
+                                                }, this)
+                                            ]
+                                        }, void 0, true, {
                                             fileName: "[project]/src/components/Contact.tsx",
-                                            lineNumber: 87,
+                                            lineNumber: 83,
                                             columnNumber: 29
                                         }, this)
                                     ]
@@ -809,7 +914,7 @@ function Contact() {
                                     value: "Portfolyo sitesinden yeni mesaj"
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/Contact.tsx",
-                                    lineNumber: 102,
+                                    lineNumber: 126,
                                     columnNumber: 25
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -820,7 +925,7 @@ function Contact() {
                                     className: "w-full rounded-lg border border-flower-green/30 bg-white px-4 py-3 text-gray-800 outline-none transition placeholder:text-gray-400 focus:border-leaf-green"
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/Contact.tsx",
-                                    lineNumber: 108,
+                                    lineNumber: 132,
                                     columnNumber: 25
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -831,7 +936,7 @@ function Contact() {
                                     className: "w-full rounded-lg border border-flower-green/30 bg-white px-4 py-3 text-gray-800 outline-none transition placeholder:text-gray-400 focus:border-leaf-green"
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/Contact.tsx",
-                                    lineNumber: 116,
+                                    lineNumber: 140,
                                     columnNumber: 25
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("textarea", {
@@ -842,7 +947,7 @@ function Contact() {
                                     className: "w-full resize-y rounded-lg border border-flower-green/30 bg-white px-4 py-3 text-gray-800 outline-none transition placeholder:text-gray-400 focus:border-leaf-green"
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/Contact.tsx",
-                                    lineNumber: 124,
+                                    lineNumber: 148,
                                     columnNumber: 25
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -851,13 +956,13 @@ function Contact() {
                                     children: "Mesaj Gönder"
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/Contact.tsx",
-                                    lineNumber: 132,
+                                    lineNumber: 156,
                                     columnNumber: 25
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/components/Contact.tsx",
-                            lineNumber: 97,
+                            lineNumber: 121,
                             columnNumber: 21
                         }, this)
                     ]
@@ -1272,14 +1377,14 @@ function Hero() {
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                     className: "text-5xl md:text-7xl font-bold text-gray-800 mb-4",
                     children: [
-                        "Hi, I'm ",
+                        "Merhaba, Ben ",
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                             className: "text-transparent bg-clip-text bg-gradient-to-r from-flower-pink to-flower-purple",
                             children: "Betül Güleç"
                         }, void 0, false, {
                             fileName: "[project]/src/components/Hero.tsx",
                             lineNumber: 17,
-                            columnNumber: 29
+                            columnNumber: 34
                         }, this)
                     ]
                 }, void 0, true, {
@@ -1304,11 +1409,11 @@ function Hero() {
                     columnNumber: 17
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "space-x-4",
+                    className: "flex flex-col sm:flex-row sm:justify-center gap-4",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                             href: "#projects",
-                            className: "iinline-block border-2 border-leaf-green text-leaf-green px-8 py-3 rounded-full hover:bg-leaf-green hover:text-white transition transform hover:scale-105",
+                            className: "inline-block w-full sm:w-auto text-center border-2 border-leaf-green text-leaf-green px-8 py-3 rounded-full hover:bg-leaf-green hover:text-white transition transform hover:scale-105",
                             children: "Projelerimi Görüntüle"
                         }, void 0, false, {
                             fileName: "[project]/src/components/Hero.tsx",
@@ -1317,11 +1422,11 @@ function Hero() {
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                             href: "#contact",
-                            className: "inline-block border-2 border-leaf-green text-leaf-green px-8 py-3 rounded-full hover:bg-leaf-green hover:text-white transition transform hover:scale-105",
+                            className: "inline-block w-full sm:w-auto text-center border-2 border-leaf-green text-leaf-green px-8 py-3 rounded-full hover:bg-leaf-green hover:text-white transition transform hover:scale-105",
                             children: "Benimle İletişime Geç"
                         }, void 0, false, {
                             fileName: "[project]/src/components/Hero.tsx",
-                            lineNumber: 30,
+                            lineNumber: 33,
                             columnNumber: 21
                         }, this)
                     ]
