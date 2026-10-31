@@ -32,7 +32,10 @@ jobs:
 
       - name: Build
         run: npm run build
-
+        
+      - name: Check CV files in export
+        run: find out/cv -type f
+        
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
